@@ -1,4 +1,8 @@
-# Welcome to my GitHub 👋
+# Welcome to my GitHub :space_invader::alien:
+<br>
+<h4 align="center">-“Everything yields to diligence”</h4>
+<br>
+
 ## About me
 
 This is Braulio Banuelos. I'm a part-time full stack web developer, and a full-time virtual analysis engineer from Mexico City.
