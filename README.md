@@ -22,6 +22,11 @@ In the following sections you can learn more about the laguages and frameworks i
  
 
 ## Projects 
+
+# Site to find your Favorite Artist's Discography using the Spotify API
+# Site to hare your favorite bands with other users
+# Site with a template for a coffee shop business
+
 ## Contact data
 
 |      Platform                                                                                                      |                        User                                    |
