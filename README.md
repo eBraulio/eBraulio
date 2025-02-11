@@ -5,10 +5,12 @@
 
 ## About me
 
-This is Braulio Banuelos. I'm a part-time full stack web developer, and a full-time virtual analysis engineer from Mexico City.
+Hi! I’m Braulio.
+I’m a part-time full stack web developer and a full-time virtual analysis engineer based in Mexico City.
 
-I'm highly interested in learning and colaborating with other developers to build a stronger comunity. 
-In the following sections you can learn more about the laguages and frameworks in which I'm proficient, along with my contact data in case that you have any question, or want to colaborate in some project.
+I’m passionate about learning and collaborating with other developers to build innovative solutions and strengthen the tech community. On this page, you’ll find details about the languages and frameworks I’m proficient in, as well as examples of my recent projects.
+
+If you have any questions, want to share ideas, or are interested in collaborating on a project, feel free to reach out! I’m always open to new opportunities and challenges.
 <br>
 <br>
 <br>
